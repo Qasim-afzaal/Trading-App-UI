@@ -1,7 +1,6 @@
 <h1 align="center">
-  📈 Crypto Trading Terminal 
-  <img src="https://img.shields.io/badge/Flutter-3.16+-blue?logo=flutter">
-  <img src="https://img.shields.io/badge/State%20Management-Riverpod-orange">
+  📈 Crypto Trading Terminal UI
+
 </h1>
 
 <div align="center">
