@@ -79,24 +79,3 @@ HistoricalDataCard(
   volume: '48.797K'
 );
 ```
-
-## 📷 Suggested Screenshot Organization
-
-```
-project-root/
-├── screenshots/
-│   ├── trading_view.png     # Main interface
-│   ├── detail_img.png       # Detailed order view
-│   ├── chart_analysis.png   # (Future use)
-│   └── mobile_view.png      # (Future use)
-```
-
-**Image Optimization Tips:**
-1. Use PNG format for crisp text display
-2. Maintain 16:9 aspect ratio (1200×675px recommended)
-3. Add subtle drop shadows for depth
-4. Keep file sizes under 500KB
-5. Use consistent color scheme (#2D2F3D dark theme suggested)
-```
-
-This presentation style maintains the trading terminal aesthetic while providing clear documentation of your interface components. Would you like me to create specific CSS styling recommendations to match this visual theme?
