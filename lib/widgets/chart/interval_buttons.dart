@@ -18,7 +18,7 @@ class IntervalButtons extends ConsumerWidget {
             onPressed: () => ref.read(intervalProvider.notifier).state = interval,
             style: ElevatedButton.styleFrom(
               backgroundColor: selectedInterval == interval
-                  ? Colors.yellow
+                  ? Colors.red
                   : Colors.grey[200],
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
             ),
