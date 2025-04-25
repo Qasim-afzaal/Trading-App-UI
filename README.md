@@ -3,11 +3,6 @@
 
 </h1>
 
-<div align="center">
-  <img src="screenshots/trading_view.png" width="45%" alt="Main Interface">
-  <img src="screenshots/detail_img.png" width="45%" alt="Detailed View">
-</div>
-
 ## 🚀 Features & Components
 
 | Chart Visualization | Order Management | Real-time Data |
