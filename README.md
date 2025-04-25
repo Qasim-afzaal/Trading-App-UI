@@ -1,5 +1,5 @@
 <h1 align="center">
-  📈 Crypto Trading Terminal UI
+  📈 Crypto Trading UI
 
 </h1>
 
